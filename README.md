@@ -1,0 +1,3 @@
+# christianabbott.com
+
+This is the repository for my personal website. I'm uploading it to github so I can update my website from any machine. It's a public repository so anyone interested in how I structured the basic HTML and CSS as well as folder structure can get an idea for creating websites from scratch. Also if people have issues seeing my static webpage on mobile now they have a place to complain :)
